@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Wandhare</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh0dmx0OGZ2anNsaTFkMzBtczdydnV1aXd0ZzN6cW5vdWM1N2RlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh0dmx0OGZ2anNsaTFkMzBtczdydnV1aXd0ZzN6cW5vdWM1N2RlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushwandhare&label=Profile%20views&color=0e75b6&style=flat" alt="ayushwandhare" /> </p>
 
