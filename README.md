@@ -1,6 +1,6 @@
 <img  align="center" width="100%" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm Ayush Wandhare</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
 <img align="right" alt="Coding" width="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh0dmx0OGZ2anNsaTFkMzBtczdydnV1aXd0ZzN6cW5vdWM1N2RlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushwandhare&label=Profile%20views&color=0e75b6&style=flat" alt="ayushwandhare" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source Project**
 
 - 💬 Ask me about **Java**
 
