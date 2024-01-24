@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayush_wandhare" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_wandhare?logo=twitter&style=for-the-badge" alt="ayush_wandhare" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot,Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
